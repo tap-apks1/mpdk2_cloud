@@ -1,17 +1,1 @@
-{
-  "schema_version": 1,
-  "catalog_version": 1,
-  "tracks": [
-    {
-      "id": "",
-      "title": "",
-      "genre": "",
-      "duration_seconds": 0,
-      "size_bytes": 0,
-      "icon_url": "",
-      "banner_url": "",
-      "download_url": "",
-      "updated_at": ""
-    }
-  ]
-}
+{"schema_version":1,"catalog_version":2,"tracks":[{"id":"Tes saja","title":"Tes dulu","description":"Tes","file_name":"Caffeinated Clutch.mp3","audio_url":"https://raw.githubusercontent.com/tap-apks1/mpdk2_cloud/main/Track_Cloud/Caffeinated_Clutch.mp3","download_url":"https://raw.githubusercontent.com/tap-apks1/mpdk2_cloud/main/Track_Cloud/Caffeinated_Clutch.mp3","file_size":1418383,"updated_at":"2026-10-18T19:22:22Z"}]}
