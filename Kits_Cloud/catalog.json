@@ -1,17 +1,1 @@
-{
-  "schema_version": 1,
-  "catalog_version": 1,
-  "kits": [
-    {
-      "id": "",
-      "title": "",
-      "description": "",
-      "soundkit": "",
-      "size_bytes": 0,
-      "icon_url": "",
-      "banner_url": "",
-      "download_url": "",
-      "updated_at": ""
-    }
-  ]
-}
+{"schema_version":1,"catalog_version":2,"kits":[]}
